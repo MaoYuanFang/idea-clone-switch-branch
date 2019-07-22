@@ -22,6 +22,10 @@
           <option name="url" value="git@github.com:MaoYuanFang/create-an-empty-class.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:MaoYuanFang/create-an-empty-class-in-package.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Administrator\Desktop" />
