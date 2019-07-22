@@ -46,6 +46,10 @@
           <option name="url" value="git@github.com:MaoYuanFang/create-a-psvm-method-and-print.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:MaoYuanFang/psvm-method-invoke-other-method.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Administrator\Desktop" />
