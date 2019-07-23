@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/MaoYuanFang/data-type-casts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hcsp/fix-boolean-return-value-npe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Administrator\Desktop" />
