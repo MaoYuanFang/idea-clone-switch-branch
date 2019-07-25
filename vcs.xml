@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/hcsp/print-all-narcissistic-number.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hcsp/how-many-prime-numbers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Administrator\Desktop" />
