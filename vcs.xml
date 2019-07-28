@@ -194,6 +194,10 @@
           <option name="url" value="git@github.com:MaoYuanFang/interface-mixin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:MaoYuanFang/practise-shell-commands.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Administrator\Desktop" />
