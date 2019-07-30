@@ -218,6 +218,10 @@
           <option name="url" value="git@github.com:MaoYuanFang/collect-string-to-list-map.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hcsp/common-elements-in-object-list.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Administrator\Desktop" />
